@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-3(Body Mass Index)", "Example-3(Body Mass Index)\Example-3(Body Mass Index).csproj", "{8FB757BD-2F2C-4BA9-8123-1DE47924AB4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB757BD-2F2C-4BA9-8123-1DE47924AB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB757BD-2F2C-4BA9-8123-1DE47924AB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB757BD-2F2C-4BA9-8123-1DE47924AB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB757BD-2F2C-4BA9-8123-1DE47924AB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF3581F-86C4-44F8-9FFF-F81678BA0074}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-3(Body Mass Index)\Example-3(Body Mass Index)\bin\Debug\Example-3(Body Mass Index).exe.config
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-3(Body Mass Index)\Example-3(Body Mass Index)\bin\Debug\Example-3(Body Mass Index).exe
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-3(Body Mass Index)\Example-3(Body Mass Index)\bin\Debug\Example-3(Body Mass Index).pdb
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-3(Body Mass Index)\Example-3(Body Mass Index)\obj\Debug\Example-3(Body Mass Index).csprojAssemblyReference.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-3(Body Mass Index)\Example-3(Body Mass Index)\obj\Debug\Example-3(Body Mass Index).csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-3(Body Mass Index)\Example-3(Body Mass Index)\obj\Debug\Example-3(Body Mass Index).exe
+C:\Users\Yusuf Kaygusuz\Desktop\Visual Studio Projeleri\Example-3(Body Mass Index)\Example-3(Body Mass Index)\obj\Debug\Example-3(Body Mass Index).pdb
